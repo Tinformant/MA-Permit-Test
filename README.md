@@ -7,11 +7,11 @@ Must use headlights and taillights
 * Whenever I use windshield wipers
 	
 ## Chapter 4
-Speed limit:
-	* 20 mph in school zone
-	* 30 mph in thickly settled or business district
-	* 40 mph outside thickly settled or business district
-	* 50 mph on a highway outside thickly settled or business district
+Speed limit
+	20 mph in school zone
+	30 mph in thickly settled or business district
+	40 mph outside thickly settled or business district
+	50 mph on a highway outside thickly settled or business district
 
 	Flashing red is the same as stop sign.
 
@@ -25,8 +25,8 @@ Speed limit:
 
 	A white diamond symbol means there is a special lane restriction
 
-	Passing on the right:
-		the vehicle you are passing is making or about to make a left turn
+### Passing on the right
+	The vehicle you are passing is making or about to make a left turn
 
 ### School Bus
 If a school bus or a school pupil transport vehicle has its lights flashing and a stop sign extended, you must stop. It is the law. It does not matter which side of the road you are traveling on. Remain stopped until the lights stop flashing or the stop sign folds back.
