@@ -1,10 +1,10 @@
 # MA-Permit-Test
 
 ## Chapter 3
-Must use headlights and taillights
-* from 1.5 hour after sunset until 1.5 hour before sunrise
-* when you cannot clearly see people or vehicles 500 feet ahead due to insufficient light or weather conditions
-* Whenever I use windshield wipers
+### Must use headlights and taillights
+	from 1.5 hour after sunset until 1.5 hour before sunrise
+	when you cannot clearly see people or vehicles 500 feet ahead due to insufficient light or weather conditions
+	Whenever I use windshield wipers
 	
 ## Chapter 4
 ### Speed limit
@@ -25,15 +25,15 @@ Must use headlights and taillights
 ### Passing on the right
 	The vehicle you are passing is making or about to make a left turn
 
-### School Bus
+### School bus
 If a school bus or a school pupil transport vehicle has its lights flashing and a stop sign extended, you must stop. It is the law. It does not matter which side of the road you are traveling on. Remain stopped until the lights stop flashing or the stop sign folds back.
 
 ### Parking on hills
-		no curb: turn wheels towards edge of road
-		Downhill Against a Curb — Turn your towards the curb.
-		Uphill against a curb - turn wheels outward
+	no curb: turn wheels towards edge of road
+	Downhill Against a Curb — Turn your towards the curb.
+	Uphill against a curb - turn wheels outward
 
 ### Passing on the right lane
-	* Vehicle I'm passing is making a left turn
-	* I'm driving on a one-way street
-	* on a multi-lane highway
+	Vehicle I'm passing is making a left turn
+	I'm driving on a one-way street
+	on a multi-lane highway
