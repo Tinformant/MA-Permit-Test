@@ -1,18 +1,17 @@
 # MA-Permit-Test
 
-Chapter 3
+## Chapter 3
 Must use headlights and taillights
 * from 1.5 hour after sunset until 1.5 hour before sunrise
 * when you cannot clearly see people or vehicles 500 feet ahead due to insufficient light or weather conditions
 * Whenever I use windshield wipers
 	
-Chapter 4
-
+## Chapter 4
 Speed limit:
-* 20 mph in school zone
-* 30 mph in thickly settled or business district
-* 40 mph outside thickly settled or business district
-* 50 mph on a highway outside thickly settled or business district
+	* 20 mph in school zone
+	* 30 mph in thickly settled or business district
+	* 40 mph outside thickly settled or business district
+	* 50 mph on a highway outside thickly settled or business district
 
 	Flashing red is the same as stop sign.
 
