@@ -7,22 +7,19 @@ Must use headlights and taillights
 * Whenever I use windshield wipers
 	
 ## Chapter 4
-Speed limit
+### Speed limit
 	20 mph in school zone
 	30 mph in thickly settled or business district
 	40 mph outside thickly settled or business district
 	50 mph on a highway outside thickly settled or business district
 
+### Lights
 	Flashing red is the same as stop sign.
-
 	Flashing yellow is warning.
-
 	Flashing yellow allows you to turn left when oncoming traffic has green light but the traffic is clear.
-
+### Lines
 	Solid white line: should not cross it unless to avoid danger
-
 	Double solid white line: not allowed to cross
-
 	A white diamond symbol means there is a special lane restriction
 
 ### Passing on the right
