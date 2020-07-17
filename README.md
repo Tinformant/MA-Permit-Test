@@ -37,7 +37,7 @@ If a school bus or a school pupil transport vehicle has its lights flashing and 
 		Downhill Against a Curb — Turn your towards the curb.
 		Uphill against a curb - turn wheels outward
 
-Passing on the right:
+### Passing on the right lane
 	* Vehicle I'm passing is making a left turn
 	* I'm driving on a one-way street
 	* on a multi-lane highway
