@@ -44,3 +44,6 @@ If a school bus or a school pupil transport vehicle has its lights flashing and 
 	Vehicle I'm passing is making a left turn
 	I'm driving on a one-way street
 	on a multi-lane highway
+	
+## Chapter 5
+	If an emergency vehicle is coming from any direction, must pull as close as to the right side of the road. Stop until the vehicle has passed.
