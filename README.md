@@ -10,6 +10,8 @@
 	from 1.5 hour after sunset until 1.5 hour before sunrise
 	when you cannot clearly see people or vehicles 500 feet ahead due to insufficient light or weather conditions
 	Whenever I use windshield wipers
+### High Beam Headlights
+	Must lower high beam headlights to low beam when within 500 feet of an oncoming vehicle or within 200 feet of a vehicle traveling ahead.
 
 ## Chapter 4
 ### Speed limit
