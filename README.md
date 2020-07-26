@@ -46,4 +46,5 @@ If a school bus or a school pupil transport vehicle has its lights flashing and 
 	on a multi-lane highway
 	
 ## Chapter 5
-	If an emergency vehicle is coming from any direction, must pull as close as to the right side of the road. Stop until the vehicle has passed.
+	If an emergency vehicle is coming from **any direction**, must pull as close as to the right side of the road. Stop until the vehicle has passed.
+	Never stop in an intersection. Drive through the intersection and pull over as soon as it is safe.
