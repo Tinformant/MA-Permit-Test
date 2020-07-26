@@ -11,6 +11,8 @@
 	when you cannot clearly see people or vehicles 500 feet ahead due to insufficient light or weather conditions
 	Whenever I use windshield wipers
 ### High Beam Headlights
+	High beam headlights normally let you see about 350 feet ahead. 
+	Low beam headlights normally let you see about 100 feet ahead.
 	Must lower high beam headlights to low beam when within 500 feet of an oncoming vehicle or within 200 feet of a vehicle traveling ahead.
 ### Turns
 	Signal your turn at least 100 feet b4 making the turn
