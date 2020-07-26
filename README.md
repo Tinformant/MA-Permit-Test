@@ -12,6 +12,8 @@
 	Whenever I use windshield wipers
 ### High Beam Headlights
 	Must lower high beam headlights to low beam when within 500 feet of an oncoming vehicle or within 200 feet of a vehicle traveling ahead.
+### Turns
+	Signal your turn at least 100 feet b4 making the turn
 
 ## Chapter 4
 ### Speed limit
@@ -48,3 +50,9 @@ If a school bus or a school pupil transport vehicle has its lights flashing and 
 ## Chapter 5
 	If an emergency vehicle is coming from **any direction**, must pull as close as to the right side of the road. Stop until the vehicle has passed.
 	Never stop in an intersection. Drive through the intersection and pull over as soon as it is safe.
+### Skidding
+	Don't hit the brake
+	Turn steering wheel in the direction of skid
+### If involved in a crash
+	Property damage only
+	Exchange name, address, driver's license number 
