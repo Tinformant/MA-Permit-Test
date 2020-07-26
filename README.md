@@ -1,6 +1,9 @@
 # MA-Permit-Test
 
 ## Chapter 3
+
+### License Plate
+	License plate number must be visable from 60 feet at night. Registration stickers must only be placed in the upper right corner of the plate.
 ### Must use headlights and taillights
 	from 1.5 hour after sunset until 1.5 hour before sunrise
 	when you cannot clearly see people or vehicles 500 feet ahead due to insufficient light or weather conditions
