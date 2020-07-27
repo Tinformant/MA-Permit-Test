@@ -37,7 +37,9 @@
 	The vehicle you are passing is making or about to make a left turn
 
 ### School bus
-If a school bus or a school pupil transport vehicle has its lights flashing and a stop sign extended, you must stop. It is the law. It does not matter which side of the road you are traveling on. Remain stopped until the lights stop flashing or the stop sign folds back.
+	If a school bus or a school pupil transport vehicle has its lights flashing and a stop sign extended, you must stop. It is the law. It does not matter which side of the road you are traveling on. Remain stopped until the lights stop flashing or the stop sign folds back.
+
+	A first violation of this law can cause a license suspension and a $250 fine.
 
 ### Parking on hills
 	no curb: turn wheels towards edge of road
