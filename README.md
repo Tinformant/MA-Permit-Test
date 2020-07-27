@@ -16,6 +16,7 @@
 	Must lower high beam headlights to low beam when within 500 feet of an oncoming vehicle or within 200 feet of a vehicle traveling ahead.
 ### Turns
 	Signal your turn at least 100 feet b4 making the turn
+	On highway, signal 500 feet b4.
 
 ## Chapter 4
 ### Speed limit
