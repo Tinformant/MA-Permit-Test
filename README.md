@@ -33,6 +33,8 @@
 	Solid white line: should not cross it unless to avoid danger
 	Double solid white line: not allowed to cross
 	A white diamond symbol means there is a special lane restriction
+### Passing on the left
+	If crossing a broken yellow line, must be able to clearly see 400 feet in front of me.
 
 ### Passing on the right
 	The vehicle you are passing is making or about to make a left turn
