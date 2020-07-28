@@ -69,8 +69,10 @@
 ### Stalling on Railroad Tracks
 	To avoid being hit by wreckage, run in a 45 degree angle
 	If vehicle won't start, shift to neural and try to push
-### Brake Release
-	Apply the parking brake gently
+### Brake Failure
+	Apply the parking brake gently; hold the brake release in case your vehicle starts to skid
+### Stuck Gas Pedal
+	Put your car in neutral and press the brake pedal to slow down
 ### If involved in a crash
 	Property damage only
 	Exchange name, address, driver's license number 
