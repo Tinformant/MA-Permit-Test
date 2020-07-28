@@ -62,6 +62,10 @@
 ### Skidding
 	Don't hit the brake
 	Turn steering wheel in the direction of skid
+### Running Off the Pavement
+	Hold the steering wheel tightly and slowly remove your foot from the gas pedal
+	Gently apply the brake to reduce the speed
+	Check for traffic behind you, then steer gently back to the road
 ### Stalling on Railroad Tracks
 	To avoid being hit by wreckage, run in a 45 degree angle
 	If vehicle won't start, shift to neural and try to push
