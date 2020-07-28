@@ -62,6 +62,11 @@
 ### Skidding
 	Don't hit the brake
 	Turn steering wheel in the direction of skid
+### Stalling on Railroad Tracks
+	To avoid being hit by wreckage, run in a 45 degree angle
+	If vehicle won't start, shift to neural and try to push
+### Brake Release
+	Apply the parking brake gently
 ### If involved in a crash
 	Property damage only
 	Exchange name, address, driver's license number 
