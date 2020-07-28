@@ -73,6 +73,7 @@
 	Apply the parking brake gently; hold the brake release in case your vehicle starts to skid
 ### Stuck Gas Pedal
 	Put your car in neutral and press the brake pedal to slow down
+### Slow Moving Vehicle
+	Orange warning signs attached to the back
 ### If involved in a crash
-	Property damage only
-	Exchange name, address, driver's license number 
+	Property damage only: Exchange name, address, driver's license number 
